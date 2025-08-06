@@ -1,19 +1,33 @@
 #dicas {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blueviolet;
+    color: rgb(53, 2, 100);
     font-size: 20px;
 }
 
 #produtos {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: blue;
+    color: darkmagenta;
     font-size: 20px;
+}
+
+#produtos li::marker {
+    color: rgb(68, 2, 57);
+    font-size: 25px;
 }
 
 img {
     width: 400px;
+    
 }
 
 body {
-    background-color: aliceblue;
+    background-color: rgb(229, 207, 247);
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: rgb(107, 4, 39);
 }
