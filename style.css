@@ -1,6 +1,6 @@
 #dicas {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(53, 2, 100);
+    color: rgb(53, 4, 99);
     font-size: 20px;
 }
 
@@ -17,17 +17,23 @@
 
 img {
     width: 400px;
+    border-radius: 100%;
     
 }
 
 body {
     background-color: rgb(229, 207, 247);
+    margin-inline: 30rem;
 }
 
 h1 {
     color: purple;
+    font-size: xx-large;
+    text-align: center;
 }
 
 h2 {
     color: rgb(107, 4, 39);
+    font-size: x-large;
+    text-align: center;
 }
